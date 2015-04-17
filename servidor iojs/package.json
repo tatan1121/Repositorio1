@@ -1,0 +1,17 @@
+{
+  "name": "sebastianp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "iojs": "~1.0.0",
+    "socket.io": "~1.3.5",
+    "express": "~4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastian",
+  "license": "GNU"
+}
